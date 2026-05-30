@@ -964,8 +964,8 @@ export default function LandingPage() {
             ✦ Welcome to the <span>Digital Ethers</span> ✦
           </div>
           <h1 className="hero-title">
-            Ascend Beyond <br/>
-            <span className="text-gradient">The Mortal Realm</span>
+            Sanctum <br/>
+            <span className="text-gradient">The Digital Temple</span>
           </h1>
           <p className="hero-subtitle">
             Enter the Sacred Digital Sanctum. Where ancient tradition meets futuristic luxury, and every ritual is etched in the eternal cosmos.
